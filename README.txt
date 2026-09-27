@@ -1,0 +1,2 @@
+SRS Hotel Management System
+A Python-based hotel management application built with Tkinter and MySQL. The system provides separate guest and staff workflows for room reservations, restaurant ordering, guest/staff management, billing, and feedback.
